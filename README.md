@@ -43,3 +43,7 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com)
+
+### Foreign Languages
+![Japanese](./src/japanese.svg)
+![Spanish](./src/spanish.svg)
