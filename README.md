@@ -1,4 +1,5 @@
 # <p align="center"><img src="src/readme-unwrap.png" style="width: 450; margin: 1rem 0 0 0" /></p>
+
 ### Languages
 
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en/docs/Web/JavaScript)
@@ -36,14 +37,26 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
 ### OS & Environment
 
+[![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 [![GNU/Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com)
 
+### Miscellaneous
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://www.ansible.com/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Discord Bots](https://skillicons.dev/icons?i=discordbots)](https://discord.com/)
+
 ### Foreign Languages
+
 ![Japanese](./src/japanese.svg)
 ![Spanish](./src/spanish.svg)
