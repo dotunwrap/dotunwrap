@@ -60,7 +60,3 @@
 
 ![Japanese](./src/japanese.svg)
 ![Spanish](./src/spanish.svg)
-
-```math
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; left: 0; top: 0; width: 100vw; background-position: 0 0; height: 100vh; opacity: 0.8; background-repeat: repeat; background-size: 100% 100%; background-image: url('https://github.com/sealldeveloper/sealldeveloper/blob/main/assets/eevee-dance.gif?raw=true');"]{}
-```
